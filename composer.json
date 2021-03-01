@@ -1,0 +1,16 @@
+{
+    "name": "laerterafael/master-otica",
+    "description": "Gerenciamento de Oticas",
+    "authors": [
+        {
+            "name": "Laerte Rafael",
+            "email": "laerterafael.ads@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
